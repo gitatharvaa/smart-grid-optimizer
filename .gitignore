@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+mlruns/
+models/saved/*.joblib
+data/raw/
+data/processed/
+*.db
+node_modules/
+dist/
+.DS_Store
+venv/
+*.egg-info/

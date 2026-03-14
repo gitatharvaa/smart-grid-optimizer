@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-primary-dark: #1C2E1C;
+    --color-primary-deeper: #162416;
+    --color-bg-cream: #E8E6DC;
+    --color-bg-card: #F5F3EC;
+    --color-amber: #C9A227;
+    --color-amber-hover: #B8911F;
+    --color-white: #FFFFFF;
+    --color-dark-text: #1A2E1A;
+    --color-tag-bg: #2D4A2D;
+    --color-tag-text: #7BAE7B;
+    --color-border: #D4D0C4;
+    --color-stable: #22C55E;
+    --color-unstable: #EF4444;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: var(--color-bg-cream);
+    color: var(--color-dark-text);
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+::selection {
+    background: var(--color-amber);
+    color: var(--color-white);
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--color-bg-cream);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-amber);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--color-amber-hover);
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.loading-skeleton {
+    background: linear-gradient(90deg, #E8E6DC 25%, #D4D0C4 50%, #E8E6DC 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: 8px;
+}

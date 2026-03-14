@@ -1,0 +1,1 @@
+"""Routes package for Smart Grid Optimizer API."""
