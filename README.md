@@ -49,11 +49,11 @@ A production-grade, full-stack ML platform that solves two real-world energy pro
 
 | Overview Dashboard | Live Simulator |
 |:---:|:---:|
-| ![Overview](YOUR_SCREENSHOT_URL_1) | ![Simulator](YOUR_SCREENSHOT_URL_2) |
+| ![Overview](https://raw.githubusercontent.com/gitatharvaa/smart-grid-optimizer/main/assets/dashboard.png) | ![Simulator](https://raw.githubusercontent.com/gitatharvaa/smart-grid-optimizer/main/assets/simulator.png) |
 
 | Grid Stability Heatmap | AI Assistant |
 |:---:|:---:|
-| ![Heatmap](YOUR_SCREENSHOT_URL_3) | ![AI](YOUR_SCREENSHOT_URL_4) |
+| ![Heatmap](https://raw.githubusercontent.com/gitatharvaa/smart-grid-optimizer/main/assets/heatmap.png) | ![AI](https://raw.githubusercontent.com/gitatharvaa/smart-grid-optimizer/main/assets/AIAssistant.png) |
 
 </div>
 
