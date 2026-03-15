@@ -1,26 +1,30 @@
 <div align="center">
-```
-╔════════════════════════════════════════════════════════════════
-║         SMART GRID OPTIMIZER // v1.0.0                        ║
-║    AI-Powered Wind Energy Forecasting & Grid Stability        ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-smart--grid--optimizer.vercel.app-C9A227?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-grid-optimizer.vercel.app)
-[![Backend API](https://img.shields.io/badge/BACKEND_API-Railway-1C2E1C?style=for-the-badge&logo=railway&logoColor=white)](https://your-railway-url.up.railway.app/docs)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/gitatharvaa/smart-grid-optimizer)
+<h1>⚡ SMART GRID OPTIMIZER</h1>
+<h3>AI-Powered Wind Energy Forecasting & Grid Stability Platform</h3>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-smart--grid--optimizer.vercel.app-C9A227?style=for-the-badge)](https://smart-grid-optimizer.vercel.app)
+[![Backend API](https://img.shields.io/badge/⚙️_BACKEND_API-Railway-1C2E1C?style=for-the-badge)](https://your-railway-url.up.railway.app/docs)
+[![GitHub](https://img.shields.io/badge/📁_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/gitatharvaa/smart-grid-optimizer)
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-</div>
+<br/>
 
+> **43,823 training rows · 2 ML models · 5 API endpoints · 5 React pages · Live on Vercel + Railway**
+
+</div>
 ---
 
 ## ⚡ What Is This?
